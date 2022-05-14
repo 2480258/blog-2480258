@@ -105,3 +105,7 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+layout: default
+comments: true
+# other options
